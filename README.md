@@ -25,7 +25,7 @@ The code expects the World Bank GDP (current US$) series:
 Download the bulk CSV for this indicator and place it in the project root, e.g.: API_NY.GDP.MKTP.CD_DS2_en_csv_v2.csv
 
 
-If it’s a notebook (e.g., `benford.ipynb`):
+If it’s a notebook:
 
 1. Open it in Jupyter or VS Code.
 2. Run all cells top to bottom.
